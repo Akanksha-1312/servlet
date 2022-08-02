@@ -10,7 +10,7 @@ public class JDBCTest {
 //		insertdb();
 //		readdb();
 //		updatedb();
-		deletedb();
+//		deletedb();
 		
 		
 	}
